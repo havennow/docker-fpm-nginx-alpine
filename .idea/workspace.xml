@@ -20,24 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fbae6bf2-8cc3-4873-afc5-491804612a58" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/docker/nginx/nginx.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker/php-fpm/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker/php-fpm/php-ini-overrides.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/public/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manifest/entrypoint.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/manifest/etc/nginx/conf.d/default.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/manifest/etc/nginx/nginx.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/manifest/etc/nginx/ssl/server.crt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/manifest/etc/nginx/ssl/server.key" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/manifest/etc/php7/php-fpm.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/manifest/etc/php7/php-fpm.d/www.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/manifest/etc/php7/php.d/zend-opcache.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/manifest/etc/php7/php.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/manifest/etc/supervisord.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.gitkeppfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/docker-fpm-nginx-alpine.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/laravel-plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -187,7 +176,7 @@
       <workItem from="1593190829796" duration="536000" />
       <workItem from="1593192333288" duration="222000" />
       <workItem from="1593197160964" duration="2402000" />
-      <workItem from="1593200409579" duration="1204000" />
+      <workItem from="1593200409579" duration="1844000" />
     </task>
     <servers />
   </component>
